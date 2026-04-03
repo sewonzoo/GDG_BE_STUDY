@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34a9319f-8597-43c5-9c6b-23790ced295f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/shop/src/main/java/com/example/shop/order/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/src/main/java/com/example/shop/order/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/src/main/java/com/example/shop/product/ProcductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/src/main/java/com/example/shop/product/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/images/gdg_week_2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/images/gdg_week_2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/images/gdg_week_2_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/wil.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/wil.md" beforeDir="false" afterPath="$PROJECT_DIR$/week1/wil.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/src/main/java/com/example/shop/member/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop/src/main/java/com/example/shop/member/MemberController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +65,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GDG_BE_STUDY\week2\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="GDG_BE_STUDY" />
@@ -92,7 +105,11 @@
       <workItem from="1773720678360" duration="3861000" />
       <workItem from="1773725465774" duration="2885000" />
       <workItem from="1773728979678" duration="1099000" />
-      <workItem from="1773793172673" duration="1159000" />
+      <workItem from="1773793172673" duration="1889000" />
+      <workItem from="1773883885892" duration="168000" />
+      <workItem from="1774146505051" duration="57000" />
+      <workItem from="1775193669223" duration="1470000" />
+      <workItem from="1775195162072" duration="219000" />
     </task>
     <servers />
   </component>

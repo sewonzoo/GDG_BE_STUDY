@@ -4,6 +4,7 @@ package com.example.shop.member;
 import com.example.shop.member.dto.MemberCreateRequest;
 import com.example.shop.member.dto.MemberUpdateRequest;
 import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
@@ -18,6 +19,14 @@ import java.util.List;
 public class MemberController {
 
     private final MemberService memberService;
+
+
+//    @Autowired                                                       --> 이게 결국 @RequiredArgsConstructor 랑 같은것.
+//    public MemberController(MemberService memberService) {
+//        this.memberService = memberService;
+//    }
+
+
 
     @PostMapping //HTTP POST 요청을 받는 API
     public ResponseEntity<Void> createMember(@RequestBody MemberCreateRequest request ) {   //요청 body(JSON)을 객체로 변환  // MemberCreateRequest : DTO 객체
